@@ -21,4 +21,5 @@ const save = () => {
 }
 const undo = () => {
     return true;
-}
+} 
+const name = 'Sander';
