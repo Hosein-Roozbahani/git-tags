@@ -19,3 +19,6 @@ const removeArticle = () => {
 const save = () => {
     return true;
 }
+const undo = () => {
+    return true;
+}
