@@ -13,3 +13,6 @@ const removeCourse = () => {
 const addArticle = () => {
     return true;
 }
+const removeArticle = () => {
+    return true;
+}
