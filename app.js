@@ -7,3 +7,6 @@ const register = () => {
 const addCourse = () => {
     return true;
 }
+const removeCourse = () => {
+    return true;
+}
