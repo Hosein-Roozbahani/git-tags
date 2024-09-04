@@ -16,3 +16,6 @@ const addArticle = () => {
 const removeArticle = () => {
     return true;
 }
+const save = () => {
+    return true;
+}
