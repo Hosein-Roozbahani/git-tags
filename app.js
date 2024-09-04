@@ -10,3 +10,6 @@ const addCourse = () => {
 const removeCourse = () => {
     return true;
 }
+const addArticle = () => {
+    return true;
+}
